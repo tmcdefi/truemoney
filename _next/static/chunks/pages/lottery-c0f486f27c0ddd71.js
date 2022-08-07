@@ -5377,10 +5377,9 @@
                                 alignItems: "center",
                                 justifyContent: "center",
                                 children: [
-                                    (0, r.jsx)(So.Z, { href: "https://twitter.com/TmfFinance", children: (0, r.jsx)(Li.Z, { variant: "text", "aria-label": "Twitter", children: (0, r.jsx)(Oo.Z, { width: 35 }) }) }),
-                                    (0, r.jsx)(So.Z, { href: "https://t.me/tmf_finance", children: (0, r.jsx)(Li.Z, { variant: "text", "aria-label": "Telegram", children: (0, r.jsx)(Lo.Z, { width: 35 }) }) }),
-                                    (0, r.jsx)(So.Z, { href: "https://discord.gg/xxdS792B7q", children: (0, r.jsx)(Li.Z, { variant: "text", "aria-label": "Discord", children: (0, r.jsx)(To.Z, { width: 35 }) }) }),
-                                    (0, r.jsx)(So.Z, { href: "https://tmf.medium.com/", children: (0, r.jsx)(Li.Z, { variant: "text", "aria-label": "Medium", children: (0, r.jsx)(Po.Z, { width: 35 }) }) }),
+                                    (0, r.jsx)(So.Z, { href: "https://twitter.com/tmcdefi", children: (0, r.jsx)(Li.Z, { variant: "text", "aria-label": "Twitter", children: (0, r.jsx)(Oo.Z, { width: 35 }) }) }),
+                                    (0, r.jsx)(So.Z, { href: "https://t.me/tmcdefi", children: (0, r.jsx)(Li.Z, { variant: "text", "aria-label": "Telegram", children: (0, r.jsx)(Lo.Z, { width: 35 }) }) }),
+                                    /*(0, r.jsx)(So.Z, { href: "https://discord.gg/xxdS792B7q", children: (0, r.jsx)(Li.Z, { variant: "text", "aria-label": "Discord", children: (0, r.jsx)(To.Z, { width: 35 }) }) }),*/
                                 ],
                             }),
                         ],

@@ -479,7 +479,7 @@
                             margin: "10px 35px 32px",
                             children: [
                                 (0, r.jsx)(d.Z, { color: "textSubtle", marginBottom: "34px", fontSize: "35px", fontWeight: 800, textAlign: "center", children: "Still got questions?" }),
-                                (0, r.jsx)("form", { action: "#", method: "get", target: "_blank", children: (0, r.jsxs)(J, { scale: "md", children: ["More Details ", ">"] }) }),
+                                (0, r.jsx)("form", { action: "https://docs.truemoney.finance/", method: "get", target: "_blank", children: (0, r.jsxs)(J, { scale: "md", children: ["More Details ", ">"] }) }),
                             ],
                         }),
                     });
@@ -515,9 +515,9 @@
                                 alignItems: "center",
                                 justifyContent: "center",
                                 children: [
-                                    (0, r.jsx)(nn.Z, { href: "https://twitter.com/", children: (0, r.jsx)(en.Z, { variant: "text", "aria-label": "Twitter", children: (0, r.jsx)(tn.Z, { width: 35 }) }) }),
-                                    (0, r.jsx)(nn.Z, { href: "https://t.me/", children: (0, r.jsx)(en.Z, { variant: "text", "aria-label": "Telegram", children: (0, r.jsx)(rn.Z, { width: 35 }) }) }),
-                                    (0, r.jsx)(nn.Z, { href: "https://discord.gg/", children: (0, r.jsx)(en.Z, { variant: "text", "aria-label": "Discord", children: (0, r.jsx)(on.Z, { width: 35 }) }) }),
+                                    (0, r.jsx)(nn.Z, { href: "https://twitter.com/tmcdefi", children: (0, r.jsx)(en.Z, { variant: "text", "aria-label": "Twitter", children: (0, r.jsx)(tn.Z, { width: 35 }) }) }),
+                                    (0, r.jsx)(nn.Z, { href: "https://t.me/tmcdefi", children: (0, r.jsx)(en.Z, { variant: "text", "aria-label": "Telegram", children: (0, r.jsx)(rn.Z, { width: 35 }) }) }),
+                                    /*(0, r.jsx)(nn.Z, { href: "https://discord.gg/", children: (0, r.jsx)(en.Z, { variant: "text", "aria-label": "Discord", children: (0, r.jsx)(on.Z, { width: 35 }) }) }),*/
                                 ],
                             }),
                         ],
