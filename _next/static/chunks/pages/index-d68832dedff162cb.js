@@ -471,7 +471,7 @@
                             margin: "10px 35px 32px",
                             children: [
                                 (0, r.jsx)(d.Z, { color: "textSubtle", marginBottom: "34px", fontSize: "35px", fontWeight: 800, textAlign: "center", children: "Still got questions?" }),
-                                (0, r.jsx)("form", { action: "https://docs.truemoney.finance/", method: "get", target: "_blank", children: (0, r.jsxs)(J, { scale: "md", children: ["More Details ", ">"] }) }),
+                                (0, r.jsx)("form", { action: "https://docs.truemoneyfin.com/", method: "get", target: "_blank", children: (0, r.jsxs)(J, { scale: "md", children: ["More Details ", ">"] }) }),
                             ],
                         }),
                     });
